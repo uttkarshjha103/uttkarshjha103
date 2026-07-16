@@ -1,18 +1,30 @@
-# 💫 About Me:
-My name is Uttkarsh Jha, and I am currently pursuing my B.Tech in Computer Science and Engineering from Lovely Professional University with a CGPA of 7.0.<br><br>I have a strong interest in software development and problem-solving. I have worked on projects like a Library Management System using Java, JDBC, and MySQL, and a Clothing Dashboard Web Application built with React.js.<br><br>Additionally, I have completed Cyber Security & Ethical Hacking training from Board Infinity, where I gained hands-on experience with tools like Kali Linux and Metasploit.<br><br>I am proficient in C, C++, JavaScript, Python, and Kotlin, and I enjoy building practical solutions that solve real-world problems.<br><br>I consider myself adaptable, a quick learner, and someone who enjoys working in a team environment.<br><br>Thank you.
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:1D4ED8,100:22C55E&height=220&section=header&text=Uttkarsh%20Jha&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20student%20%7C%20Software%20Developer&descAlignY=55&descSize=18)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=780&lines=B.Tech+CSE+%40+Lovely+Professional+University;Java+%7C+C%2B%2B+%7C+Python+%7C+JavaScript+%7C+Kotlin;Building+practical%2C+real-world+solutions;Cyber+Security+%26+Ethical+Hacking+enthusiast)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Forgejo](https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=uttkarshjha103&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=uttkarshjha103&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=uttkarshjha103&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![GitHub badge](https://img.shields.io/badge/GitHub-uttkarshjha103-181827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uttkarshjha103)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=uttkarshjha103&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Tech Stack
 
----
-[![](https://visitcount.itsvg.in/api?id=uttkarshjha103&icon=0&color=0)](https://visitcount.itsvg.in)
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Frontend & Data
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Security Tools
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=uttkarshjha103&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=uttkarshjha103&theme=dark&hide_border=false&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=uttkarshjha103&theme=dark)](https://git.io/streak-stats)
+
+## About Me
+🎓 B.Tech CSE student at Lovely Professional University (CGPA: 7.23)
+🔐 Completed Cyber Security & Ethical Hacking training (Board Infinity)
+💡 Built a Library Management System (Java, JDBC, MySQL) and a Clothing Dashboard (React.js)
+🤝 Adaptable, quick learner, enjoys working in teams
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,55:1D4ED8,100:0F172A&height=140&section=footer)
