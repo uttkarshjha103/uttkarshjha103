@@ -5,7 +5,7 @@
 [![GitHub badge](https://img.shields.io/badge/GitHub-uttkarshjha103-181827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uttkarshjha103)
 
 ## 🛡️ About Me
-🎓 B.Tech CSE student at Lovely Professional University (CGPA: 7.0)
+🎓 B.Tech CSE student at Lovely Professional University (CGPA: 7.23)
 🔐 Completed Cyber Security & Ethical Hacking training (Board Infinity) — hands-on with Kali Linux and Metasploit
 💻 Software developer building practical, real-world solutions
 💡 Built a Library Management System (Java, JDBC, MySQL) and a Clothing Dashboard (React.js)
